@@ -8,6 +8,7 @@ def main():
     print('And I change it every day')
     print('UFO came and added this line')
     my_superfunction()
+    print(122)
 
 
 if __name__ == '__main__':
